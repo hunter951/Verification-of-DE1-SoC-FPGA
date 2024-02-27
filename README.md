@@ -2,7 +2,6 @@ With a team of 5 student engineers, developed a testbench for the DE1-SoC Field 
 to detect any changes in performance of the system after implementation of protection technology by DEVCOM Army Research Lab
 
 final.qar is the Quartus II archive for the program to be flashed to the DE1-SoC that will utilize a high percentage of board resources to stress the board.
-.mif files for the RAMs are produced from XXXXX
 
 memDump.tcl extracts the memory contents from the RAMs created in the final.qar and puts the data into .mif files
 
